@@ -1,0 +1,10 @@
+{
+    "name": "jelio/newsviewer",
+    "authors": [
+        {
+            "name": "zhelyazkoi",
+            "email": "zhelyazko.ivanov@playtech.com"
+        }
+    ],
+    "require": {}
+}
