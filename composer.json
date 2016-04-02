@@ -6,5 +6,7 @@
             "email": "zhelyazko.ivanov@playtech.com"
         }
     ],
-    "require": {}
+    "require": {
+    	"elasticsearch/elasticsearch": "~2.0@beta"
+    }
 }
